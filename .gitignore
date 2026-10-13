@@ -1,0 +1,16 @@
+# Entorno virtual y cachés de Python
+venv/
+.venv/
+__pycache__/
+*.pyc
+
+# ¡IMPORTANTE! Llaves privadas y el programa del túnel (no se suben)
+certificado/
+*.pem
+cloudflared.exe
+
+# Cosas del editor / sistema
+.vscode/
+.DS_Store
+Thumbs.db
+*.log
