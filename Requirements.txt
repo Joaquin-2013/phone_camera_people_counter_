@@ -1,0 +1,8 @@
+aiohttp
+opencv-python
+numpy
+cryptography
+cvzone
+mediapipe
+pyttsx3
+qrcode
